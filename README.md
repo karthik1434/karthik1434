@@ -27,7 +27,8 @@ I enjoy solving real-world problems through automation, scalable cloud-native ar
 ## 📫 Connect with Me  
 
 - 📍 Nellore, India  
-- 📧 [karthikduggana131@gmail.com](mailto:karthikduggana131@gmail.com)  
+- 📧 [karthikduggana131@gmail.com](mailto:karthikduggana131@gmail.com)
+-  📱 +91 8143650763  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karthikduggana/)  
 - 💻 [GitHub](https://github.com/karthik1434)  
 
